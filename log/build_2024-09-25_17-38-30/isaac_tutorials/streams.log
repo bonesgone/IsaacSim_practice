@@ -1,0 +1,19 @@
+[1.138s] Invoking command in '/home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_tutorials': PYTHONPATH=/home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_tutorials/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_tutorials/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_tutorials/build --no-deps symlink_data
+[1.353s] running develop
+[1.489s] running egg_info
+[1.489s] writing isaac_tutorials.egg-info/PKG-INFO
+[1.490s] writing dependency_links to isaac_tutorials.egg-info/dependency_links.txt
+[1.490s] writing entry points to isaac_tutorials.egg-info/entry_points.txt
+[1.490s] writing requirements to isaac_tutorials.egg-info/requires.txt
+[1.490s] writing top-level names to isaac_tutorials.egg-info/top_level.txt
+[1.491s] reading manifest file 'isaac_tutorials.egg-info/SOURCES.txt'
+[1.492s] writing manifest file 'isaac_tutorials.egg-info/SOURCES.txt'
+[1.493s] running build_ext
+[1.493s] Creating /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_tutorials/lib/python3.10/site-packages/isaac-tutorials.egg-link (link to .)
+[1.494s] Installing pymoveit_example script to /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_tutorials/lib/isaac_tutorials
+[1.494s] Installing ros2_ackermann_publisher script to /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_tutorials/lib/isaac_tutorials
+[1.494s] Installing ros2_publisher script to /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_tutorials/lib/isaac_tutorials
+[1.494s] 
+[1.494s] Installed /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_tutorials
+[1.494s] running symlink_data
+[1.521s] Invoked command in '/home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_tutorials' returned '0': PYTHONPATH=/home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_tutorials/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_tutorials/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_tutorials/build --no-deps symlink_data

@@ -1,0 +1,18 @@
+[1.078s] Invoking command in '/home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/turtlebot3_line_follower': PYTHONPATH=/home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/turtlebot3_line_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/turtlebot3_line_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/turtlebot3_line_follower/build --no-deps symlink_data
+[1.295s] running develop
+[1.433s] running egg_info
+[1.433s] writing turtlebot3_line_follower.egg-info/PKG-INFO
+[1.434s] writing dependency_links to turtlebot3_line_follower.egg-info/dependency_links.txt
+[1.434s] writing entry points to turtlebot3_line_follower.egg-info/entry_points.txt
+[1.434s] writing requirements to turtlebot3_line_follower.egg-info/requires.txt
+[1.434s] writing top-level names to turtlebot3_line_follower.egg-info/top_level.txt
+[1.435s] reading manifest file 'turtlebot3_line_follower.egg-info/SOURCES.txt'
+[1.436s] writing manifest file 'turtlebot3_line_follower.egg-info/SOURCES.txt'
+[1.437s] running build_ext
+[1.437s] Creating /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/turtlebot3_line_follower/lib/python3.10/site-packages/turtlebot3-line-follower.egg-link (link to .)
+[1.438s] Installing follower_node script to /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/turtlebot3_line_follower/lib/turtlebot3_line_follower
+[1.438s] Installing test_node script to /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/turtlebot3_line_follower/lib/turtlebot3_line_follower
+[1.438s] 
+[1.438s] Installed /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/turtlebot3_line_follower
+[1.438s] running symlink_data
+[1.466s] Invoked command in '/home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/turtlebot3_line_follower' returned '0': PYTHONPATH=/home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/turtlebot3_line_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/turtlebot3_line_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/turtlebot3_line_follower/build --no-deps symlink_data

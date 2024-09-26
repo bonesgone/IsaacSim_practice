@@ -1,0 +1,30 @@
+[1.190s] Invoking command in '/home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_ros_navigation_goal': PYTHONPATH=/home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_ros_navigation_goal/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_ros_navigation_goal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_ros_navigation_goal/build --no-deps symlink_data
+[1.545s] running develop
+[1.774s] running egg_info
+[1.774s] creating isaac_ros_navigation_goal.egg-info
+[1.775s] writing isaac_ros_navigation_goal.egg-info/PKG-INFO
+[1.775s] writing dependency_links to isaac_ros_navigation_goal.egg-info/dependency_links.txt
+[1.775s] writing entry points to isaac_ros_navigation_goal.egg-info/entry_points.txt
+[1.775s] writing requirements to isaac_ros_navigation_goal.egg-info/requires.txt
+[1.775s] writing top-level names to isaac_ros_navigation_goal.egg-info/top_level.txt
+[1.775s] writing manifest file 'isaac_ros_navigation_goal.egg-info/SOURCES.txt'
+[1.778s] reading manifest file 'isaac_ros_navigation_goal.egg-info/SOURCES.txt'
+[1.778s] writing manifest file 'isaac_ros_navigation_goal.egg-info/SOURCES.txt'
+[1.780s] running build_ext
+[1.780s] Creating /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_ros_navigation_goal/lib/python3.10/site-packages/isaac-ros-navigation-goal.egg-link (link to .)
+[1.781s] Installing SetNavigationGoal script to /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_ros_navigation_goal/lib/isaac_ros_navigation_goal
+[1.781s] 
+[1.781s] Installed /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_ros_navigation_goal
+[1.781s] running symlink_data
+[1.781s] creating /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_ros_navigation_goal/share/ament_index
+[1.781s] creating /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_ros_navigation_goal/share/ament_index/resource_index
+[1.781s] creating /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_ros_navigation_goal/share/ament_index/resource_index/packages
+[1.781s] symbolically linking /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_ros_navigation_goal/resource/isaac_ros_navigation_goal -> /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_ros_navigation_goal/share/ament_index/resource_index/packages
+[1.781s] symbolically linking /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_ros_navigation_goal/package.xml -> /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_ros_navigation_goal/share/isaac_ros_navigation_goal
+[1.781s] creating /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_ros_navigation_goal/share/isaac_ros_navigation_goal/launch
+[1.781s] symbolically linking /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_ros_navigation_goal/launch/isaac_ros_navigation_goal.launch.py -> /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_ros_navigation_goal/share/isaac_ros_navigation_goal/launch
+[1.781s] creating /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_ros_navigation_goal/share/isaac_ros_navigation_goal/assets
+[1.782s] symbolically linking /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_ros_navigation_goal/assets/goals.txt -> /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_ros_navigation_goal/share/isaac_ros_navigation_goal/assets
+[1.782s] symbolically linking /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_ros_navigation_goal/assets/carter_warehouse_navigation.png -> /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_ros_navigation_goal/share/isaac_ros_navigation_goal/assets
+[1.782s] symbolically linking /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_ros_navigation_goal/assets/carter_warehouse_navigation.yaml -> /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_ros_navigation_goal/share/isaac_ros_navigation_goal/assets
+[1.817s] Invoked command in '/home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_ros_navigation_goal' returned '0': PYTHONPATH=/home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_ros_navigation_goal/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_ros_navigation_goal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_ros_navigation_goal/build --no-deps symlink_data

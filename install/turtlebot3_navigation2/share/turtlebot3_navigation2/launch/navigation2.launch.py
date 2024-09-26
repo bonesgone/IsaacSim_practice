@@ -1,0 +1,1 @@
+/home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/src/turtlebot3_navigation2/launch/navigation2.launch.py

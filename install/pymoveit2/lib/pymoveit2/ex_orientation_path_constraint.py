@@ -1,0 +1,1 @@
+/home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/src/pymoveit2/examples/ex_orientation_path_constraint.py

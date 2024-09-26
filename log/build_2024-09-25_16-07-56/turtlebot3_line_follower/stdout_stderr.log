@@ -1,0 +1,25 @@
+running develop
+running egg_info
+creating turtlebot3_line_follower.egg-info
+writing turtlebot3_line_follower.egg-info/PKG-INFO
+writing dependency_links to turtlebot3_line_follower.egg-info/dependency_links.txt
+writing entry points to turtlebot3_line_follower.egg-info/entry_points.txt
+writing requirements to turtlebot3_line_follower.egg-info/requires.txt
+writing top-level names to turtlebot3_line_follower.egg-info/top_level.txt
+writing manifest file 'turtlebot3_line_follower.egg-info/SOURCES.txt'
+reading manifest file 'turtlebot3_line_follower.egg-info/SOURCES.txt'
+writing manifest file 'turtlebot3_line_follower.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/turtlebot3_line_follower/lib/python3.10/site-packages/turtlebot3-line-follower.egg-link (link to .)
+Installing follower_node script to /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/turtlebot3_line_follower/lib/turtlebot3_line_follower
+Installing test_node script to /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/turtlebot3_line_follower/lib/turtlebot3_line_follower
+
+Installed /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/turtlebot3_line_follower
+running symlink_data
+creating /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/turtlebot3_line_follower/share/ament_index
+creating /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/turtlebot3_line_follower/share/ament_index/resource_index
+creating /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/turtlebot3_line_follower/share/ament_index/resource_index/packages
+symbolically linking /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/turtlebot3_line_follower/resource/turtlebot3_line_follower -> /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/turtlebot3_line_follower/share/ament_index/resource_index/packages
+symbolically linking /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/turtlebot3_line_follower/package.xml -> /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/turtlebot3_line_follower/share/turtlebot3_line_follower
+creating /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/turtlebot3_line_follower/share/turtlebot3_line_follower/launch
+creating /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/turtlebot3_line_follower/share/turtlebot3_line_follower/assets
