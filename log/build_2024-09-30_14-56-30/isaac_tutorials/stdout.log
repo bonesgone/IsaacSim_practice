@@ -1,0 +1,40 @@
+running develop
+Removing /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_tutorials/lib/python3.10/site-packages/isaac-tutorials.egg-link (link to .)
+running egg_info
+writing ../../build/isaac_tutorials/isaac_tutorials.egg-info/PKG-INFO
+writing dependency_links to ../../build/isaac_tutorials/isaac_tutorials.egg-info/dependency_links.txt
+writing entry points to ../../build/isaac_tutorials/isaac_tutorials.egg-info/entry_points.txt
+writing requirements to ../../build/isaac_tutorials/isaac_tutorials.egg-info/requires.txt
+writing top-level names to ../../build/isaac_tutorials/isaac_tutorials.egg-info/top_level.txt
+reading manifest file '../../build/isaac_tutorials/isaac_tutorials.egg-info/SOURCES.txt'
+writing manifest file '../../build/isaac_tutorials/isaac_tutorials.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_tutorials/build
+creating /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_tutorials/build/lib
+creating /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_tutorials/build/lib/scripts
+copying scripts/ros2_ackermann_publisher.py -> /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_tutorials/build/lib/scripts
+copying scripts/pymoveit_example.py -> /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_tutorials/build/lib/scripts
+copying scripts/ros2_publisher.py -> /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_tutorials/build/lib/scripts
+copying scripts/__init__.py -> /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_tutorials/build/lib/scripts
+running install
+running install_lib
+creating /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_tutorials/lib/python3.10/site-packages/scripts
+copying /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_tutorials/build/lib/scripts/ros2_ackermann_publisher.py -> /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_tutorials/lib/python3.10/site-packages/scripts
+copying /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_tutorials/build/lib/scripts/pymoveit_example.py -> /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_tutorials/lib/python3.10/site-packages/scripts
+copying /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_tutorials/build/lib/scripts/ros2_publisher.py -> /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_tutorials/lib/python3.10/site-packages/scripts
+copying /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_tutorials/build/lib/scripts/__init__.py -> /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_tutorials/lib/python3.10/site-packages/scripts
+byte-compiling /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_tutorials/lib/python3.10/site-packages/scripts/ros2_ackermann_publisher.py to ros2_ackermann_publisher.cpython-310.pyc
+byte-compiling /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_tutorials/lib/python3.10/site-packages/scripts/pymoveit_example.py to pymoveit_example.cpython-310.pyc
+byte-compiling /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_tutorials/lib/python3.10/site-packages/scripts/ros2_publisher.py to ros2_publisher.cpython-310.pyc
+byte-compiling /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_tutorials/lib/python3.10/site-packages/scripts/__init__.py to __init__.cpython-310.pyc
+running install_data
+copying resource/isaac_tutorials -> /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_tutorials/share/ament_index/resource_index/packages
+copying package.xml -> /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_tutorials/share/isaac_tutorials
+running install_egg_info
+Copying ../../build/isaac_tutorials/isaac_tutorials.egg-info to /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_tutorials/lib/python3.10/site-packages/isaac_tutorials-0.1.0-py3.10.egg-info
+running install_scripts
+Installing pymoveit_example script to /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_tutorials/lib/isaac_tutorials
+Installing ros2_ackermann_publisher script to /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_tutorials/lib/isaac_tutorials
+Installing ros2_publisher script to /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/isaac_tutorials/lib/isaac_tutorials
+writing list of installed files to '/home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/build/isaac_tutorials/install.log'

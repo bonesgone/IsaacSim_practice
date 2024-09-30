@@ -1,9 +1,11 @@
 /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/carter_navigation/share/carter_navigation/launch/carter_navigation.launch.py
 /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/carter_navigation/share/carter_navigation/launch/carter_navigation_individual.launch.py
 /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/carter_navigation/share/carter_navigation/launch/carter_navigation_isaacsim.launch.py
+/home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/carter_navigation/share/carter_navigation/launch/homework.launch.py
 /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/carter_navigation/share/carter_navigation/launch/multiple_robot_carter_navigation_hospital.launch.py
 /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/carter_navigation/share/carter_navigation/launch/multiple_robot_carter_navigation_office.launch.py
 /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/carter_navigation/share/carter_navigation/params/carter_navigation_params.yaml
+/home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/carter_navigation/share/carter_navigation/params/homework.yaml
 /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/carter_navigation/share/carter_navigation/params/hospital/multi_robot_carter_navigation_params_1.yaml
 /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/carter_navigation/share/carter_navigation/params/hospital/multi_robot_carter_navigation_params_2.yaml
 /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/carter_navigation/share/carter_navigation/params/hospital/multi_robot_carter_navigation_params_3.yaml
@@ -16,6 +18,8 @@
 /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/carter_navigation/share/carter_navigation/maps/carter_office_navigation.yaml
 /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/carter_navigation/share/carter_navigation/maps/carter_warehouse_navigation.png
 /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/carter_navigation/share/carter_navigation/maps/carter_warehouse_navigation.yaml
+/home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/carter_navigation/share/carter_navigation/maps/homework.png
+/home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/carter_navigation/share/carter_navigation/maps/homework.yaml
 /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/carter_navigation/share/carter_navigation/rviz2/carter_navigation.rviz
 /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/carter_navigation/share/carter_navigation/rviz2/carter_navigation_namespaced.rviz
 /home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/install/carter_navigation/share/ament_index/resource_index/package_run_dependencies/carter_navigation

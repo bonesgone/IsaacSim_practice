@@ -1,1 +1,0 @@
-/home/roboticsinnovatorytim/isaac_tutorial/examples/sim/IsaacSim-ros_workspaces/humble_ws/src/isaac_tutorials/setup.py

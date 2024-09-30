@@ -1,0 +1,4 @@
+[console_scripts]
+follower_node = turtlebot3_line_follower.follower_node:main
+test_node = turtlebot3_line_follower.test_topic:main
+

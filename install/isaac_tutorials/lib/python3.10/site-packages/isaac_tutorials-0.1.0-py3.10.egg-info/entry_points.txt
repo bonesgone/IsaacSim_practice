@@ -1,0 +1,5 @@
+[console_scripts]
+pymoveit_example = scripts.pymoveit_example:main
+ros2_ackermann_publisher = scripts.ros2_ackermann_publisher:main
+ros2_publisher = scripts.ros2_publisher:main
+
